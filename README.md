@@ -1,2 +1,0 @@
-# minimalist-portfolio
-Portfolio
